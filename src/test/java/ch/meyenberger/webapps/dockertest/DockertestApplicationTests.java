@@ -17,8 +17,8 @@ public class DockertestApplicationTests {
     public void works()  {
     }
 
-//    @Test
-//    public void fails() throws Exception {
-//        throw new Exception();
-//    }
+    @Test
+    public void fails() throws Exception {
+        throw new Exception();
+    }
 }
