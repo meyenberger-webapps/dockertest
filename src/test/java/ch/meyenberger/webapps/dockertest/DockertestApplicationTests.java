@@ -13,4 +13,12 @@ public class DockertestApplicationTests {
     public void contextLoads() {
     }
 
+    @Test
+    public void works()  {
+    }
+
+//    @Test
+//    public void fails() throws Exception {
+//        throw new Exception();
+//    }
 }
